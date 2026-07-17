@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "description": "Princípios de storytelling com dados (baseado no livro de Cole Nussbaumer Knaflic) aplicados à criação e revisão de apresentações, gráficos e dashboards, em qualquer contexto de negócio.",
   "author": {
-    "name": "Fábio Novais"
+    "name": "Fábio Novais",
+    "email": "faonovais@gmail.com"
   },
   "keywords": [
     "storytelling",
