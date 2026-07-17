@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "faonovais-plugins",
+  "description": "Plugins e skills para Claude criados por Fábio Novais.",
+  "owner": {
+    "name": "Fábio Novais",
+    "email": "fabionovais@topo.pro.br",
+    "url": "https://github.com/faonovais"
+  },
+  "plugins": [
+    {
+      "name": "storytelling-com-dados",
+      "description": "Princípios de storytelling com dados (baseado no livro de Cole Nussbaumer Knaflic) aplicados à criação e revisão de apresentações, gráficos e dashboards, em qualquer contexto de negócio.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Fábio Novais",
+        "email": "fabionovais@topo.pro.br"
+      },
+      "source": "./storytelling-com-dados",
+      "category": "productivity"
+    }
+  ]
+}
