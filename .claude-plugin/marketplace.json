@@ -4,7 +4,7 @@
   "description": "Plugins e skills para Claude criados por Fábio Novais.",
   "owner": {
     "name": "Fábio Novais",
-    "email": "fabionovais@topo.pro.br",
+    "email": "faonovais@gmail.com",
     "url": "https://github.com/faonovais"
   },
   "plugins": [
@@ -14,7 +14,7 @@
       "version": "0.1.0",
       "author": {
         "name": "Fábio Novais",
-        "email": "fabionovais@topo.pro.br"
+        "email": "faonovais@gmail.com"
       },
       "source": "./storytelling-com-dados",
       "category": "productivity"
@@ -25,7 +25,7 @@
       "version": "0.2.0",
       "author": {
         "name": "Fábio Novais",
-        "email": "fabionovais@topo.pro.br"
+        "email": "faonovais@gmail.com"
       },
       "source": "./damma-dmbok2",
       "category": "data-management"
