@@ -1,0 +1,31 @@
+{
+  "name": "fabionovais-claude-plugins",
+  "owner": {
+    "name": "Fábio Novais",
+    "email": "fabionovais@topo.pro.br"
+  },
+  "description": "Marketplace pessoal de plugins Claude de Fábio Novais.",
+  "plugins": [
+    {
+      "name": "dama-dmbok2",
+      "source": "./",
+      "description": "Aplica em português os princípios da Governança de Dados (núcleo) e das 10 áreas funcionais do DAMA-DMBOK2 (Data Management Body of Knowledge, 2ª edição) à gestão de dados de qualquer organização, com uma skill dedicada por área de conhecimento.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Fábio Novais",
+        "email": "fabionovais@topo.pro.br"
+      },
+      "category": "data-management",
+      "keywords": [
+        "dama-dmbok",
+        "governanca-de-dados",
+        "data-management",
+        "arquitetura-de-dados",
+        "data-warehouse",
+        "qualidade-de-dados",
+        "metadados",
+        "modelagem-de-dados"
+      ]
+    }
+  ]
+}
