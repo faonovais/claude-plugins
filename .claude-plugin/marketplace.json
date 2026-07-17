@@ -18,6 +18,17 @@
       },
       "source": "./storytelling-com-dados",
       "category": "productivity"
+    },
+    {
+      "name": "dama-dmbok2",
+      "description": "Aplica em português os princípios do DAMA-DMBOK2 (2ª edição) à gestão de dados de qualquer organização: Governança de Dados (núcleo) e as 10 áreas funcionais que ela coordena. Uma skill por área, independente de setor ou stack tecnológico.",
+      "version": "0.2.0",
+      "author": {
+        "name": "Fábio Novais",
+        "email": "fabionovais@topo.pro.br"
+      },
+      "source": "./damma-dmbok2",
+      "category": "data-management"
     }
   ]
 }
