@@ -1,0 +1,17 @@
+{
+  "name": "storytelling-com-dados",
+  "version": "0.1.0",
+  "description": "Princípios de storytelling com dados (baseado no livro de Cole Nussbaumer Knaflic) aplicados à criação e revisão de apresentações, gráficos e dashboards, em qualquer contexto de negócio.",
+  "author": {
+    "name": "Fábio Novais"
+  },
+  "keywords": [
+    "storytelling",
+    "visualização de dados",
+    "data viz",
+    "apresentações",
+    "gráficos",
+    "dashboards",
+    "business intelligence"
+  ]
+}
