@@ -7,14 +7,14 @@ Fábio Novais.
 
 ```bash
 claude plugin marketplace add faonovais/claude-plugins
-claude plugin install storytelling-com-dados@faonovais-plugins
+claude plugin install storytelling-com-dados@faonovais-claude-plugins
 ```
 
 Ou, dentro do Claude Code / Cowork:
 
 ```
 /plugin marketplace add faonovais/claude-plugins
-/plugin install storytelling-com-dados@faonovais-plugins
+/plugin install storytelling-com-dados@faonovais-claude-plugins
 ```
 
 ## Plugins

@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "faonovais-plugins",
+  "name": "faonovais-claude-plugins",
   "description": "Plugins e skills para Claude criados por Fábio Novais.",
   "owner": {
     "name": "Fábio Novais",
